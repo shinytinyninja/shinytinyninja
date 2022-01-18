@@ -1,5 +1,13 @@
-### Hi there 👋
+### Howdy 👋
 
+I'm Jeffrey Wong, a computer science student intrested in mobile developent, autobiles, and robotics.
+
+I'm a 2 time winner of the Western Engineering Competition, competed at Hack Western and won the entreensuraiship award, and worked at Bell as an intern. My past work/projects are included below.
+
+
+ 🤔 I’m looking for help with Android Auto Development. Feel free to contact me, always open to developing new relationships.
+ 
+ 
 <!--
 **shinytinyninja/shinytinyninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
